@@ -1,0 +1,13 @@
+{
+	"name": "repro-dev-server-hang",
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"astro": "astro",
+		"build": "astro build",
+		"dev": "astro dev"
+	},
+	"dependencies": {
+		"astro": "^4.3.7"
+	}
+}
